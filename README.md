@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Barchynai Iakubova</h1>
 <h3 align="center">Highly motivated, very ambitious and energetic Java Web Developer.</h3>
 
-- 🔭 I’m currently working on [Bilingual](https://github.com/peaksoft-school/bilingual-b6.git)
+- 🔭 I’m currently working on [Cheber](https://github.com/aksoftATM/cheber-backend)
 
 - 👯 I’m looking to collaborate on **different projects**
 
